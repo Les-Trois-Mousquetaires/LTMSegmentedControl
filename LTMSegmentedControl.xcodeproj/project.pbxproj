@@ -16,6 +16,7 @@
 		2770A981247274DF00625131 /* LTMSegmentedControlTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2770A980247274DF00625131 /* LTMSegmentedControlTests.swift */; };
 		2770A98C247274DF00625131 /* LTMSegmentedControlUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2770A98B247274DF00625131 /* LTMSegmentedControlUITests.swift */; };
 		2770A99A2472750300625131 /* LTMSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2770A9992472750300625131 /* LTMSegmentedControl.swift */; };
+		2770A99C247284AD00625131 /* effect.png in Resources */ = {isa = PBXBuildFile; fileRef = 2770A99B247284AD00625131 /* effect.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2770A98B247274DF00625131 /* LTMSegmentedControlUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LTMSegmentedControlUITests.swift; sourceTree = "<group>"; };
 		2770A98D247274DF00625131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2770A9992472750300625131 /* LTMSegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LTMSegmentedControl.swift; sourceTree = "<group>"; };
+		2770A99B247284AD00625131 /* effect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = effect.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				2770A96B247274DD00625131 /* SceneDelegate.swift */,
 				2770A96D247274DD00625131 /* ViewController.swift */,
 				2770A9992472750300625131 /* LTMSegmentedControl.swift */,
+				2770A99B247284AD00625131 /* effect.png */,
 				2770A96F247274DD00625131 /* Main.storyboard */,
 				2770A972247274DF00625131 /* Assets.xcassets */,
 				2770A974247274DF00625131 /* LaunchScreen.storyboard */,
@@ -237,6 +240,7 @@
 			files = (
 				2770A976247274DF00625131 /* LaunchScreen.storyboard in Resources */,
 				2770A973247274DF00625131 /* Assets.xcassets in Resources */,
+				2770A99C247284AD00625131 /* effect.png in Resources */,
 				2770A971247274DD00625131 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
