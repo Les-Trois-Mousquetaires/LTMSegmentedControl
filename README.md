@@ -1,4 +1,4 @@
 # LTMSegmentedControl
 分段按钮
 
-![image](https://share.weiyun.com/RrIILver)
+[gif效果地址](https://share.weiyun.com/RrIILver)
